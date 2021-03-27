@@ -25,7 +25,7 @@ SECRET_KEY = 'd)lyj#0c=3#xfqfrrtg$)d+eks7ot1i$&rzuw-y8w3bml3ayjy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bhagwati.pythonanywhere.com','https://developer.dhee.ai/']
+ALLOWED_HOSTS = ['bhagwati1995.pythonanywhere.com','https://developer.dhee.ai/']
 
 
 # Application definition
